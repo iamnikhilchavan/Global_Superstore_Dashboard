@@ -1,5 +1,7 @@
 # Power BI Dashboard for Global Superstore Data
 
+![Dashboard Snapshot](Dashboard_Snapshot.png)
+
 ## Overview
 
 This Power BI dashboard comprehensively analyses the Global Superstore dataset, offering insights into sales, profits, and other key metrics. It is designed to help stakeholders make informed decisions based on the data from the Global Superstore.
